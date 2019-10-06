@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sazieceeyo.slight.ink/sitemap.xml
